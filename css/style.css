@@ -1,0 +1,90 @@
+/************************TAG SECTION***************/
+body {
+  background-color: Ivory;
+  margin: 0;
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  margin: 0;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 0;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Courgette', cursive;
+  color: green;
+}
+h3{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  color: green;
+  margin: 0;
+  padding:10px;
+}
+
+/************************CLASS SECTION*******************/
+.top-container {
+  padding-top: 100px;
+  background-color: #badfdb;
+}
+
+
+.bottom-container {
+  padding:20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.middle-container{
+  margin: 0;
+}
+
+.header {
+  font-family: 'Courgette', cursive;
+  color: green;
+}
+
+.subtext {
+  font-family: 'Lato', sans-serif;
+  color: green;
+}
+
+.profile {
+  padding: 100px;
+  background-color: #b2fcff;
+}
+
+.profile-img {
+  border-radius: 50%;
+  height: 220px;
+  width: 220px;
+}
+.skills{
+  padding:50px;
+  background-color: #5edfff;
+  margin: 0;
+}
+.skills-img{
+  border-radius: 50%;
+  height:200px;
+  width:200px;
+}
+.bottom-container{
+  background-color: #dff0ea;
+  margin:0;
+}
